@@ -1,5 +1,5 @@
 # StockAlertsBot
-![work in progress](https://img.shields.io/badge/build-work%20in%20progress-yellow)
+![work in progress](https://img.shields.io/badge/status-in%20progress-yellow)
   Discord bot for setting your own stock/forex price alerts!
 
 ## Dependencies
