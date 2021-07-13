@@ -1,6 +1,6 @@
 # StockAlertsBot
 ![work in progress](https://img.shields.io/badge/build-work%20in%20progress-yellow)
-Discord bot for setting your own stock/forex price alerts!
+  Discord bot for setting your own stock/forex price alerts!
 
 ## Dependencies
 - [Discord.py](https://discordpy.readthedocs.io/en/stable/)
